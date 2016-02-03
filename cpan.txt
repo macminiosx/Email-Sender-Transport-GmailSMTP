@@ -1,0 +1,6 @@
+Email::Sender::Transport::SMTPS
+Email::MIME::CreateHTML
+Email::Sender::Simple
+MIME::Base64
+Moose
+Net::SMTP::SSL
